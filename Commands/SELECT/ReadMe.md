@@ -17,3 +17,5 @@ syntax below:
 
 
 here the "SELECT *" resembles all the columns to be returned.
+
+Other examples are shown in the images and tables provides in excels.
